@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\CarSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\carsimulator\\assets\\genroads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\genroads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\carsimulator\\assets\\trafficai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\trafficai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\admin\\carsimulator\\assets\\newnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\newnewcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewNewCar.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\NewNewCar.cs",
+              "RelativeDocumentMoniker": "Assets\\NewNewCar.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\NewNewCar.cs",
+              "RelativeToolTip": "Assets\\NewNewCar.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwDkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:31:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trafficAI.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\trafficAI.cs",
+              "RelativeDocumentMoniker": "Assets\\trafficAI.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\trafficAI.cs",
+              "RelativeToolTip": "Assets\\trafficAI.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEEAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:38:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenRoads.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\GenRoads.cs",
+              "RelativeDocumentMoniker": "Assets\\GenRoads.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\CarSimulator\\Assets\\GenRoads.cs",
+              "RelativeToolTip": "Assets\\GenRoads.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T02:09:04.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
